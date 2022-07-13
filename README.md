@@ -24,7 +24,8 @@ A few resources to get you started if this is your first Flutter project:
 ![PWA Mockups](https://github.com/iizmotabar/bmiCalculatorRevisit/blob/main/ProjectMocks/Chrome/PWA%20ResultsScreen.png)
 
 
-I also write @ iizmotabar.medium.com
+I also write articles on Programming and my experiences on [Medium](iizmotabar.medium.com).
+You can follow me on Twitter [Twitter](twitter.com/iizmotabar)
 
 
 
